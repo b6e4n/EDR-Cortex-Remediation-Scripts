@@ -1,3 +1,9 @@
+"""
+Created and edited during MicroSOC missions at Orange CYberDefense
+
+Author : b6e4n
+"""
+
 import os
 import re
 import winreg
